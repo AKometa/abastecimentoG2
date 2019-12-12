@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cadastro de Times</string>
+    <string name="action_settings">Settings</string>
+    <string name="adicionar_time">Adicionar Time</string>
+    <string name="times_cadastrados">Times Cadastrados:</string>
+    <string name="nome_do_time">Nome do time</string>
+    <string name="fundado_no_ano_de">Fundado no ano de:</string>
+    <string name="salvar">SALVAR</string>
+</resources>
